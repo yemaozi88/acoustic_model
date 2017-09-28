@@ -1,0 +1,6 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/10/Limburg/16149-1464375282-2060388.wav
+Created lattice with 10 nodes / 9 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 5 duplicate pronunciations removed in HVite
+ZACHT KNORT HET VARKEN IN DE WEI EEN KARAKTERISTIEK GELUID  ==  [896 frames] -66.9197 [Ac=-59960.1 LM=0.0] (Act=190.8)

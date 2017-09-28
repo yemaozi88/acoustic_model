@@ -1,0 +1,5 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/03/Groningen_and_Drenthe/13042-1464200264-1931995.wav
+Created lattice with 10 nodes / 9 arcs from label file
+JEANNETTE LACHT NADAT ZE DOOR EEN ONBEKENDE PERSOON IS GEKUST  ==  [799 frames] -64.4736 [Ac=-51514.4 LM=0.0] (Act=175.6)

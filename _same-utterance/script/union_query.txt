@@ -1,0 +1,607 @@
+SELECT filename, region, "1" as ID, [01].de as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "2" as ID, [01].sprei as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "3" as ID, [01].die as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "4" as ID, [01].jij as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "5" as ID, [01].bracht as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "6" as ID, [01].heeft as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "7" as ID, [01].Suzan as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "8" as ID, [01].altijd as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "9" as ID, [01].al as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "10" as ID, [01].gewild as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "11" as ID, [01].omdat as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "12" as ID, [01].die2 as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "13" as ID, [01].zo as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "14" as ID, [01].leuk as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "15" as ID, [01].staat as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "16" as ID, [01].bij as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "17" as ID, [01].het as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "18" as ID, [01].gele as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "19" as ID, [01].laken as pronunciation
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "20" as ID, [02].het as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "21" as ID, [02].echtpaar as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "22" as ID, [02].adopteert as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "23" as ID, [02].voor as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "24" as ID, [02].veel as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "25" as ID, [02].geld as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "26" as ID, [02].een as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "27" as ID, [02].tweejarig as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "28" as ID, [02].weesje as pronunciation
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "29" as ID, [03].Jeannette as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "30" as ID, [03].lacht as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "31" as ID, [03].nadat as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "32" as ID, [03].ze as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "33" as ID, [03].door as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "34" as ID, [03].een as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "35" as ID, [03].onbekende as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "36" as ID, [03].persoon as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "37" as ID, [03].is as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "38" as ID, [03].gekust as pronunciation
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "39" as ID, [04].kort as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "40" as ID, [04].na as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "41" as ID, [04].het as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "42" as ID, [04].wielerfestijn as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "43" as ID, [04].verbruikte as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "44" as ID, [04].Dries as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "45" as ID, [04].de as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "46" as ID, [04].rest as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "47" as ID, [04].van as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "48" as ID, [04].de2 as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "49" as ID, [04].deodorant as pronunciation
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "50" as ID, [05].na as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "51" as ID, [05].de as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "52" as ID, [05].tocht as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "53" as ID, [05].in as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "54" as ID, [05].de2 as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "55" as ID, [05].regen as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "56" as ID, [05].vaart as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "57" as ID, [05].de3 as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "58" as ID, [05].kapitein as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "59" as ID, [05].blij as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "60" as ID, [05].weg as pronunciation
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "61" as ID, [06].na as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "62" as ID, [06].zijn as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "63" as ID, [06].reis as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "64" as ID, [06].maakt as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "65" as ID, [06].hij as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "66" as ID, [06].een as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "67" as ID, [06].kaart as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "68" as ID, [06].van as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "69" as ID, [06].de as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "70" as ID, [06].onverharde as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "71" as ID, [06].wegen as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "72" as ID, [06].en as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "73" as ID, [06].die as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "74" as ID, [06].zet as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "75" as ID, [06].hij2 as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "76" as ID, [06].direct as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "77" as ID, [06].op as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "78" as ID, [06].een2 as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "79" as ID, [06].DVD as pronunciation
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "80" as ID, [07].natuurlijk as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "81" as ID, [07].ga as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "82" as ID, [07].je as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "83" as ID, [07].van as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "84" as ID, [07].hard as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "85" as ID, [07].werken as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "86" as ID, [07].heus as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "87" as ID, [07].niet as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "88" as ID, [07].dood as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "89" as ID, [07].maar as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "90" as ID, [07].in as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "91" as ID, [07].andere as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "92" as ID, [07].opzichten as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "93" as ID, [07].is as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "94" as ID, [07].de as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "95" as ID, [07].prijs as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "96" as ID, [07].soms as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "97" as ID, [07].hoger as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "98" as ID, [07].dan as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "99" as ID, [07].je2 as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "100" as ID, [07].dacht as pronunciation
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "101" as ID, [08].pistool as pronunciation
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "102" as ID, [08].geraapt as pronunciation
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "103" as ID, [08].toveren as pronunciation
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "104" as ID, [08].ijs as pronunciation
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "105" as ID, [08].verkeerd as pronunciation
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "106" as ID, [09].takt as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "107" as ID, [09].ik as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "108" as ID, [09].reken as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "109" as ID, [09].verwart as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "110" as ID, [09].erudiet as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "111" as ID, [09].een as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "112" as ID, [09].bij as pronunciation
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "113" as ID, [10].zacht as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "114" as ID, [10].knort as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "115" as ID, [10].het as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "116" as ID, [10].varken as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "117" as ID, [10].in as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "118" as ID, [10].de as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "119" as ID, [10].wei as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "120" as ID, [10].een as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "121" as ID, [10].karakteristiek as pronunciation
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "122" as ID, [10].geluid as pronunciation
+FROM [10];

@@ -1,0 +1,57 @@
+#!/usr/bin/perl -w
+# © Gertjan van Noord, 1999.
+# mailto:vannoord@let.rug.nl
+
+# input: each line two strings separated by spaces/tabs 
+# 
+# the two strings of a line are compared (Levenshtein distance)
+# 
+# output: fprint("%.2f\n",100*(1-$pen/$length);
+# where $pen is total Levenshtein distance
+# Gb- nb!
+# and   $len is total lengths of all second (correct) words.
+
+use strict;
+
+my $pen=0;
+my $length=0;
+my $wpen=0;
+my $words=0;
+while (<>) {
+  my ($a,$b) = split;
+  $length += length($b);
+  $pen += distance($a,$b);
+  $words++ ;
+  unless ($a eq $b) {$wpen++ ; }
+}
+
+print  "phoneme accuracy: " ;
+printf "%.2f",100*(1-$pen/$length) ;
+print " (errors=$pen,phonemes=$length)\n";
+print  "word accuracy: " ;
+printf "%.2f\n",100*(1-$wpen/$words);
+
+## computes Levenshtein Distance of two given strings
+sub distance {
+  my @v=split //, shift(@_);
+  my @w=split //, shift(@_);
+
+  my (@arr,$i,$j);
+  for ($i=0;$i<=@v;$i++) {
+    $arr[0][$i]=$i;
+  }
+  for ($j=0;$j<=@w;$j++) {
+    $arr[$j][0]=$j;
+  }
+  my ($add, $l, $m, $n);
+  for ($j=1;$j<=@w;$j++) {
+    for ($i=1;$i<=@v;$i++) {
+      if ($v[$i-1] eq $w[$j-1]) { $add=0 } else { $add=1 }
+      $m =    1+$arr[$j-1][$i];
+      $l =    1+$arr[$j][$i-1];
+      $n = $add+$arr[$j-1][$i-1];
+      $arr[$j][$i] = ($m < $l ? ($m < $n ? $m : $n): ($l < $n ? $l : $n));
+    }	
+  }
+  return $arr[@w][@v];
+}

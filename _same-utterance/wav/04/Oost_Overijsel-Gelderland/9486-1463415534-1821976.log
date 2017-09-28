@@ -1,0 +1,6 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/04/Oost_Overijsel-Gelderland/9486-1463415534-1821976.wav
+Created lattice with 11 nodes / 10 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 27 duplicate pronunciations removed in HVite
+KORT NA HET WIELERFESTIJN VERBRUIKTE DRIES DE REST VAN DE DEODORANT  ==  [1022 frames] -66.4537 [Ac=-67915.7 LM=0.0] (Act=188.3)

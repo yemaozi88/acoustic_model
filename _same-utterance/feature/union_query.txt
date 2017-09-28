@@ -1,0 +1,607 @@
+SELECT filename, region, "1" as ColName, [01].de as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "2" as ColName, [01].sprei as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "3" as ColName, [01].die as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "4" as ColName, [01].jij as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "5" as ColName, [01].bracht as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "6" as ColName, [01].heeft as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "7" as ColName, [01].Suzan as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "8" as ColName, [01].altijd as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "9" as ColName, [01].al as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "10" as ColName, [01].gewild as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "11" as ColName, [01].omdat as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "12" as ColName, [01].die as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "13" as ColName, [01].zo as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "14" as ColName, [01].leuk as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "15" as ColName, [01].staat as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "16" as ColName, [01].bij as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "17" as ColName, [01].het as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "18" as ColName, [01].gele as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "19" as ColName, [01].laken as ColData
+FROM [01];
+
+UNION ALL
+
+SELECT filename, region, "20" as ColName, [02].het as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "21" as ColName, [02].echtpaar as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "22" as ColName, [02].adopteert as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "23" as ColName, [02].voor as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "24" as ColName, [02].veel as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "25" as ColName, [02].geld as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "26" as ColName, [02].een as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "27" as ColName, [02].tweejarig as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "28" as ColName, [02].weesje as ColData
+FROM [02];
+
+UNION ALL
+
+SELECT filename, region, "29" as ColName, [03].Jeannette as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "30" as ColName, [03].lacht as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "31" as ColName, [03].nadat as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "32" as ColName, [03].ze as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "33" as ColName, [03].door as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "34" as ColName, [03].een as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "35" as ColName, [03].onbekende as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "36" as ColName, [03].persoon as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "37" as ColName, [03].is as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "38" as ColName, [03].gekust as ColData
+FROM [03];
+
+UNION ALL
+
+SELECT filename, region, "39" as ColName, [04].kort as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "40" as ColName, [04].na as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "41" as ColName, [04].het as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "42" as ColName, [04].wielerfestijn as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "43" as ColName, [04].verbruikte as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "44" as ColName, [04].Dries as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "45" as ColName, [04].de as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "46" as ColName, [04].rest as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "47" as ColName, [04].van as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "48" as ColName, [04].de as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "49" as ColName, [04].deodorant as ColData
+FROM [04];
+
+UNION ALL
+
+SELECT filename, region, "50" as ColName, [05].na as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "51" as ColName, [05].de as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "52" as ColName, [05].tocht as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "53" as ColName, [05].in as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "54" as ColName, [05].de as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "55" as ColName, [05].regen as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "56" as ColName, [05].vaart as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "57" as ColName, [05].de as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "58" as ColName, [05].kapitein as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "59" as ColName, [05].blij as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "60" as ColName, [05].weg as ColData
+FROM [05];
+
+UNION ALL
+
+SELECT filename, region, "61" as ColName, [06].na as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "62" as ColName, [06].zijn as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "63" as ColName, [06].reis as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "64" as ColName, [06].maakt as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "65" as ColName, [06].hij as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "66" as ColName, [06].een as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "67" as ColName, [06].kaart as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "68" as ColName, [06].van as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "69" as ColName, [06].de as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "70" as ColName, [06].onverharde as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "71" as ColName, [06].wegen as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "72" as ColName, [06].en as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "73" as ColName, [06].die as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "74" as ColName, [06].zet as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "75" as ColName, [06].hij as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "76" as ColName, [06].direct as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "77" as ColName, [06].op as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "78" as ColName, [06].een as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "79" as ColName, [06].DVD as ColData
+FROM [06];
+
+UNION ALL
+
+SELECT filename, region, "80" as ColName, [07].natuurlijk as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "81" as ColName, [07].ga as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "82" as ColName, [07].je as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "83" as ColName, [07].van as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "84" as ColName, [07].hard as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "85" as ColName, [07].werken as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "86" as ColName, [07].heus as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "87" as ColName, [07].niet as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "88" as ColName, [07].dood as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "89" as ColName, [07].maar as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "90" as ColName, [07].in as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "91" as ColName, [07].andere as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "92" as ColName, [07].opzichten as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "93" as ColName, [07].is as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "94" as ColName, [07].de as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "95" as ColName, [07].prijs as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "96" as ColName, [07].soms as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "97" as ColName, [07].hoger as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "98" as ColName, [07].dan as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "99" as ColName, [07].je as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "100" as ColName, [07].dacht as ColData
+FROM [07];
+
+UNION ALL
+
+SELECT filename, region, "101" as ColName, [08].pistool as ColData
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "102" as ColName, [08].geraapt as ColData
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "103" as ColName, [08].toveren as ColData
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "104" as ColName, [08].ijs as ColData
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "105" as ColName, [08].verkeerd as ColData
+FROM [08];
+
+UNION ALL
+
+SELECT filename, region, "106" as ColName, [09].takt as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "107" as ColName, [09].ik as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "108" as ColName, [09].reken as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "109" as ColName, [09].verwart as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "110" as ColName, [09].erudiet as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "111" as ColName, [09].een as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "112" as ColName, [09].bij as ColData
+FROM [09];
+
+UNION ALL
+
+SELECT filename, region, "113" as ColName, [10].zacht as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "114" as ColName, [10].knort as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "115" as ColName, [10].het as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "116" as ColName, [10].varken as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "117" as ColName, [10].in as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "118" as ColName, [10].de as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "119" as ColName, [10].wei as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "120" as ColName, [10].een as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "121" as ColName, [10].karakteristiek as ColData
+FROM [10];
+
+UNION ALL
+
+SELECT filename, region, "122" as ColName, [10].geluid as ColData
+FROM [10];

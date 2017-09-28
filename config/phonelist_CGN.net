@@ -1,0 +1,10 @@
+$plosive = p | t | b | d | k | g;
+$fricative = f | v | s | z | S | Z | x | G | h;
+$sonorant = N | m | n | J | l | r | w | j;
+$vocal_s = I | E | A | O | Y;
+$vocal_l = i | y | e | C | a | o | u;
+$sjwa = @;
+$diphthong = E+ | Y+ | A+;
+$leen = E: | Y: | O:;
+$nasal = E~ | A~ | O~ | Y~;
+( silB < p | t | b | d | k | g | f | v | s | z | S | Z | x | G | h | N | m | n | J | l | r | w | j | I | E | A | O | Y | i | y | e | C | a | o | u | @ | E+ | Y+ | A+ | E: | Y: | O: | E~ | A~ | O~ | Y~ | sp > silE )

@@ -1,0 +1,5 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/08/Groningen_and_Drenthe/298-1449772681-575587.wav
+Created lattice with 5 nodes / 4 arcs from label file
+PISTOOL GERAAPT TOVEREN IJS VERKEERD  ==  [1978 frames] -64.0741 [Ac=-126738.5 LM=0.0] (Act=324.3)

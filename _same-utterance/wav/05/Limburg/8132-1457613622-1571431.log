@@ -1,0 +1,6 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/05/Limburg/8132-1457613622-1571431.wav
+Created lattice with 11 nodes / 10 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 48 duplicate pronunciations removed in HVite
+NA DE TOCHT IN DE REGEN VAART DE KAPITEIN BLIJ WEG  ==  [813 frames] -61.5566 [Ac=-50045.5 LM=0.0] (Act=234.7)

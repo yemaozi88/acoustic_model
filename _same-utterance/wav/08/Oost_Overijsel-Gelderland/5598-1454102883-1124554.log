@@ -1,0 +1,5 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/08/Oost_Overijsel-Gelderland/5598-1454102883-1124554.wav
+Created lattice with 5 nodes / 4 arcs from label file
+PISTOOL GERAAPT TOVEREN IJS VERKEERD  ==  [2006 frames] -58.2302 [Ac=-116809.8 LM=0.0] (Act=324.4)

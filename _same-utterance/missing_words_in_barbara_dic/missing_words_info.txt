@@ -1,0 +1,52 @@
+< Missing wordlist>
+
+- Words below were in _same-utterance, and not found in CGN_lexicon_barbara.txt (based on material/dict_final.txt).
+- Marita Everhardt (marita.k.everhardt@gmail.com) wrote down the pronunciation with IPA on 2017/06/20.
+
+=====
+
+sentence 01
+- sprei	spʀɛi
+- Suzan	sysɑn (note: devoicing of /z/)
+- gele	xelə
+- laken	lakən
+
+sentence 02
+- echtpaar	ɛxtpaːʀ
+- adopteert	ɑdɔptɪːʀt
+- tweejarig	tʋeːjaʀəx
+- weesje	ʋeːsjə
+
+sentence 03
+- Jeannette	ʒənɛt
+- onbekende	ɔnbəkɛndə (I think this should be ‘onbekend persoon’ in the sentence btw, so then it will be /ɔnbəkɛnt/)
+- gekust	xəkʉst
+
+sentence 04
+- wielerfestijn	ʋiləʀfɛstɛin
+- verbruikte	fɛʀbʀœyktə (note: devoicing of /v/)	
+- Dries	dʀis
+- deodorant	deodɔʀɑnt
+
+sentence 06
+- onverharde	ɔnfɛʀhɑʀdə (note: devoicing of /v/)
+- DVD	defede (note: devoicing of /v/)
+
+sentence 07
+- heus	høːs
+- opzichten	ɔpsɪxtən (note: devoicing of /z/)
+
+sentence 08
+- pistool	pistoːl
+- toveren	tofəʀən (note: devoicing of /v/)
+
+sentence 09
+- takt	tɑkt
+- verwart	fɛʀʋɑʀt (note: devoicing of /v/)
+- erudiet	eʀydit 
+
+sentence 10
+- knort	knɔʀt
+- varken	fɑʀkən (note: devoicing of /v/)
+- wei	ʋɛi
+- karakteristiek	kaʀɑktəʀəstik

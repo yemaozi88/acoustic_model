@@ -1,0 +1,71 @@
+Plosieven
+   p   [p]ut
+   t   [b]ad
+   b   [t]ak
+   d   [d]ak
+   k   [k]at
+   g   [g]oal
+
+Fricatieven
+   f   [f]iets
+   v   [v]at
+   s   [s]ap
+   z   [z]at
+   S   [sj]aal
+   Z   rava[g]e
+   x   li[ch]t
+   G   re[g]en
+   h   ge[h]eel
+
+Sonoranten
+   N   la[ng]
+   m   [m]at
+   n   [n]at
+   J   ora[nj]e
+   l   [l]at
+   r   [r]at
+   w   [w]at
+   j   [j]as
+
+Korte vocalen
+   I   l[i]p
+   E   l[e]g
+   A   l[a]t
+   O   b[o]m
+   Y   p[u]t
+
+Lange vocalen
+   i   l[ie]p
+   y   b[uu]r
+   e   l[ee]g
+   2   d[eu]k
+   a   l[aa]t
+   o   b[oo]m
+   u   b[oe]k
+
+Sjwa
+   @   g[e]lijk
+
+Diftongen
+   E+  w[ij]s
+   Y+  h[ui]s
+   A+  k[ou]d
+
+Leenvocalen
+   E:  sc[Ë]ne
+   Y:  fr[eu]le
+   O:  z[o]ne
+
+Nasale vocalen
+   E~  vacc[in] 
+   A~  croiss[ant]
+   O~  c[on]gÅE
+   
+   Y~  parf[um]
+
+Speciale symbolen
+   []  niet transcribeerbaar ("garbage")
+   #   sprekergeluid ("ggg")
+   _   fone(e)m(en) gedeeld over 2 woorden (dAn_nu/lE+st_stan)
+   -   tussenklank (nu-w-Is)
+

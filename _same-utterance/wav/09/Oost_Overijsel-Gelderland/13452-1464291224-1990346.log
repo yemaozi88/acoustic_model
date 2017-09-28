@@ -1,0 +1,6 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/09/Oost_Overijsel-Gelderland/13452-1464291224-1990346.wav
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in HVite
+TAKT IK REKEN VERWART ERUDIET EEN BIJ  ==  [1988 frames] -59.7856 [Ac=-118853.8 LM=0.0] (Act=228.0)

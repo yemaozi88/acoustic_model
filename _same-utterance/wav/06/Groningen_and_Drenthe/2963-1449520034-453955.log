@@ -1,0 +1,6 @@
+Read 38 physical / 38 logical HMMs
+Label file will be used to align each file
+Aligning File: /net/aistaff/aki/_same-utterance/wav/06/Groningen_and_Drenthe/2963-1449520034-453955.wav
+Created lattice with 19 nodes / 18 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 20 duplicate pronunciations removed in HVite
+NA ZIJN REIS MAAKT HIJ EEN KAART VAN DE ONVERHARDE WEGEN EN DIE ZET HIJ DIRECT OP EEN DVD  ==  [1825 frames] -61.3761 [Ac=-112011.4 LM=0.0] (Act=278.3)
