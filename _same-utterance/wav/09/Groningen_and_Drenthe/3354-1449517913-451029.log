@@ -1,6 +1,0 @@
-Read 38 physical / 38 logical HMMs
-Label file will be used to align each file
-Aligning File: /net/aistaff/aki/_same-utterance/wav/09/Groningen_and_Drenthe/3354-1449517913-451029.wav
-Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in HVite
-TAKT IK REKEN VERWART ERUDIET EEN BIJ  ==  [1974 frames] -60.5524 [Ac=-119530.5 LM=0.0] (Act=228.0)

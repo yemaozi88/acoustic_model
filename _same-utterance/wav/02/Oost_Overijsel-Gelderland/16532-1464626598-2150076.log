@@ -1,6 +1,0 @@
-Read 38 physical / 38 logical HMMs
-Label file will be used to align each file
-Aligning File: /net/aistaff/aki/_same-utterance/wav/02/Oost_Overijsel-Gelderland/16532-1464626598-2150076.wav
-Created lattice with 9 nodes / 8 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
-HET ECHTPAAR ADOPTEERT VOOR VEEL GELD EEN TWEEJARIG WEESJE  ==  [738 frames] -57.5169 [Ac=-42447.5 LM=0.0] (Act=210.5)

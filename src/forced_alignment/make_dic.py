@@ -4,8 +4,10 @@
 # (2) convert it to Barbara's description.
 # (3) make pronunciation variant.
 #
-# HISTORY: 2017/06/19
+# HISTORY: 
+# 2017/06/19
 # (1) and (2) are removed. because Aki couldn't make barbara's perl script work, the words are picked up from the dictionary using HDMan.
+# 2017/10/24 for unknown words, g2p is executed instead of throwing an error.
 #
 # Aki Kunikoshi
 # 428968@gmail.compile
@@ -24,6 +26,7 @@ inifile.read('./config.ini')
 filePronDict = inifile.get('make_dic', 'filePronDict')
 #filePronDictManual = inifile.get('make_dic', 'filePronDictManual')
 #filePronDictG2P = inifile.get('make_dic', 'filePronDictG2P')
+dirG2P = inifile.get('make_dic', 'dirG2P')
 
 
 ## read all lines
@@ -95,6 +98,9 @@ for word in wordlist:
 			#print ">>>>> word %s cannot be found in the dictionary." % word
 			fout.write(">>>>> word %s cannot be found in the dictionary.\n" % word)
 			ferr.write("%s\t\n" % word)
+			
+			## unknown words will be written in 
+			
 		else:
 			for line in lines:
 				# remove space at the end, comma

@@ -1,6 +1,0 @@
-Read 38 physical / 38 logical HMMs
-Label file will be used to align each file
-Aligning File: /net/aistaff/aki/_same-utterance/wav/05/Oost_Overijsel-Gelderland/10167-1464126317-1892603.wav
-Created lattice with 11 nodes / 10 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 48 duplicate pronunciations removed in HVite
-NA DE TOCHT IN DE REGEN VAART DE KAPITEIN BLIJ WEG  ==  [831 frames] -60.3286 [Ac=-50133.1 LM=0.0] (Act=235.2)

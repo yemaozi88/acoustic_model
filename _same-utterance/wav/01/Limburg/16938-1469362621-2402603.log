@@ -1,6 +1,0 @@
-Read 38 physical / 38 logical HMMs
-Label file will be used to align each file
-Aligning File: /net/aistaff/aki/_same-utterance/wav/01/Limburg/16938-1469362621-2402603.wav
-Created lattice with 19 nodes / 18 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 10 duplicate pronunciations removed in HVite
-DE SPREI DIE JIJ BRACHT HEEFT SUZAN ALTIJD AL GEWILD OMDAT DIE ZO LEUK STAAT BIJ HET GELE LAKEN  ==  [924 frames] -64.9062 [Ac=-59973.3 LM=0.0] (Act=303.6)

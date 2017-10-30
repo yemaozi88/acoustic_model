@@ -1,6 +1,0 @@
-Read 38 physical / 38 logical HMMs
-Label file will be used to align each file
-Aligning File: /net/aistaff/aki/_same-utterance/wav/07/Oost_Overijsel-Gelderland/5559-1454011778-997357.wav
-Created lattice with 21 nodes / 20 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 25 duplicate pronunciations removed in HVite
-NATUURLIJK GA JE VAN HARD WERKEN HEUS NIET DOOD MAAR IN ANDERE OPZICHTEN IS DE PRIJS SOMS HOGER DAN JE DACHT  ==  [1221 frames] -65.7792 [Ac=-80316.4 LM=0.0] (Act=850.6)
