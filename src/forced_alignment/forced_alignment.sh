@@ -64,7 +64,9 @@ python $dirSrc/make_label.py $finTxt $foutLab
 echo "------------------------"
 
 echo ">>>>> step 2/4: for each words in the label file pronunciation(s) are searched in the dictionary..."
+#python $dirSrc/scan_dic.py $foutLab $foutDicSub
 python $dirSrc/make_dic.py $foutLab $foutDic
+
 fError=$(echo $foutDic | sed 's/\.dic/\.log/g')
 if [ -e $fError ]; then
     echo "!!!!! cannot proceed to forced alignment."
